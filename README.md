@@ -1,6 +1,6 @@
 #Nimbus
 
-##This is the official Android Application of Technical Festival of NIT Hamirpur **NIMBUS** made by YOU :smile:.
+##This is the official Android Application of Technical Festival of NIT Hamirpur **NIMBUS** made by APPTEAM :smile:.
 
 ###How to setup this project in Android Studio :-
 
